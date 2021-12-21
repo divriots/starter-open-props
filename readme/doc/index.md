@@ -36,4 +36,5 @@ Documentation pages are using the [@divriots/dockit-core](https://github.com/div
 ## Resources
 
 - [Open Props](https://open-props.style/)
-- [@argyleink](https://twitter.com/argyleink)
+- [@argyleink](https://twitter.com/argyleink): Creator of Open Props
+- [Coding Design System - Open Props - Part.1](https://youtu.be/k5rnRNCKz_4): Live Coding session showing the implementation of this Starter Kit
