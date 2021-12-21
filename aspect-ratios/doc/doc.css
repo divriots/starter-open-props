@@ -1,0 +1,7 @@
+.box {
+  block-size: 100px;
+  max-inline-size: var(--max-inline-body);
+  border-width: var(--border-size-3);
+  border-color: var(--surface-4);
+  box-shadow: var(--shadow-3);
+}

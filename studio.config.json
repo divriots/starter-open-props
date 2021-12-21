@@ -1,0 +1,27 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      [
+        "TOKENS",
+        [
+          "colors",
+          "gradients",
+          "shadows",
+          "aspect-ratios",
+          "sizes"
+        ]
+      ],
+      [
+        "COMPONENTS",
+        []
+      ],
+      [
+        "INFRASTRUCTURE",
+        [
+          "doc-layout"
+        ]
+      ]
+    ]
+  }
+}
