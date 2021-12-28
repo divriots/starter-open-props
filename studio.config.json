@@ -1,27 +1,28 @@
 {
-  "packages": {
-    "dir": "",
-    "menu": [
-      [
-        "TOKENS",
-        [
-          "colors",
-          "gradients",
-          "shadows",
-          "aspect-ratios",
-          "sizes"
-        ]
-      ],
-      [
-        "COMPONENTS",
-        []
-      ],
-      [
-        "INFRASTRUCTURE",
-        [
-          "doc-layout"
-        ]
-      ]
+ "packages": {
+  "dir": "",
+  "menu": [
+   [
+    "TOKENS",
+    [
+     "colors",
+     "gradients",
+     "shadows",
+     "aspect-ratios",
+     "sizes",
+     "open-props"
     ]
-  }
+   ],
+   [
+    "COMPONENTS",
+    []
+   ],
+   [
+    "INFRASTRUCTURE",
+    [
+     "doc-layout"
+    ]
+   ]
+  ]
+ }
 }
