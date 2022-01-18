@@ -1,0 +1,19 @@
+:root {
+  --theme-light-color-primary: var(--blue-7);
+  --theme-light-color-secondary: var(--yellow-6);
+
+  --theme-dark-color-primary: var(--red-7);
+  --theme-dark-color-secondary: var(--green-6);
+
+  /* Light */
+  color-scheme: light;
+  --color-primary: var(--theme-light-color-primary);
+  --color-secondary: var(--theme-light-color-secondary);
+
+  /* Dark */
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+    --color-primary: var(--theme-dark-color-primary);
+    --color-secondary: var(--theme-dark-color-secondary);
+  }
+}
